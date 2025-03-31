@@ -1,0 +1,4 @@
+flask
+anime-parsers-ru
+flask-cors
+beautifulsoup4
